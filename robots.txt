@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-pitt57.salamkita.sbs/sitemap.xml
